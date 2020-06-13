@@ -1,5 +1,5 @@
 def display_board(rows)
-rows = [" "," "," "," "," "," "," "," "," "]
+board = [" "," "," "," "," "," "," "," "," "]
   puts "#{rows[0]}|#{rows[1]}|#{rows[2]}"
   puts "-----------"
   puts "#{rows[3]}|#{rows[4]}|#{rows[5]}"
