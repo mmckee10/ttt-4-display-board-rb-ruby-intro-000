@@ -4,5 +4,5 @@ board = [" "," "," "," "," "," "," "," "," "]
   puts "-----------"
   puts " #{rows[3]} | #{rows[4]} | #{rows[5]} "
   puts "-----------"
-  puts " #{rows[6]} |#{rows[7]}| #{rows[8]} "
+  puts " #{rows[6]} | #{rows[7]} | #{rows[8]} "
 end
